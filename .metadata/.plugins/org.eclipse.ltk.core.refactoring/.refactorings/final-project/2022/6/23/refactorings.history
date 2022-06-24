@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test_News.news.controller&apos; to &apos;NewsController&apos;&#x0D;&#x0A;- Original project: &apos;final-project&apos;&#x0D;&#x0A;- Original element: &apos;test_News.news.controller&apos;&#x0D;&#x0A;- Renamed element: &apos;test_News.news.NewsController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;controller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;test_News.news{controller.java[controller" matchStrategy="1" name="NewsController" qualified="false" references="true" similarDeclarations="false" stamp="1654218675732" textual="false" version="1.0"/>
+</session>
